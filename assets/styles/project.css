@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    border: 0;
+    background-color: white;
+}
+
+.header{
+display: flex;
+margin: 20px;
+}
+
+.navbar, ul{
+    list-style-type: none;
+    display: inline;
+}
+
+.navbar li{
+   display: inline-block; 
+   margin-top: 15px;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.container{
+    display: flex;
+    margin-left: 150px; 
+    margin-top: 50px;
+}
+.writetop{
+    width: 50%;
+    margin-bottom: 30px;
+    text-justify: 50%;
+}
+
+.para-1{
+line-height: 1.6em;
+}
+
+.para-2{
+margin-top: 100px;
+}
+
+.button{
+    display: block;
+    background-color: blue;
+    padding: 10px;
+    width: 15%;
+    border-radius: 8px;
+    margin-top: 40px;
+    color: white;
+}
+
+.aboutmehead{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+
+.aboutme{
+    display: flex;
+    margin-top: 15px;
+}
+
+.image-2{
+    width: 50%;
+    margin-left: 300px;
+}
+
+.image-3{
+    margin-left: 320px;
+    text-align: justify;
+    margin-right: 300px;
+}
+
+.expertisehead{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.expertise{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+}
+
+.expertise div{
+    border: 1px solid black;
+    padding: 30px; 
+}
+.box{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.icon{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.head{
+    text-align: center;
+}
+
+.contactmehead{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.contactme{
+    border: 1px solid black;
+    
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+.center{
+    text-align: center;
+}
+
+.form-container{
+    border-radius: 10px;
+}
+
+.input{
+    display: block;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+    width: 85%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.buttoncontact{
+    display: block;
+    background-color: blue;
+    padding: 10px;
+    width: 35%;
+    border-radius: 8px;
+    margin-top: 40px;
+    color: white;
+    margin-left: 100px;
+   
+}
+
+.socilamedia{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline;
+}
+
+.smedia-1{
+    margin-left: 300px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.smedia-2{
+    padding: 10px;
+}
+
+.navbarfooter{
+    background-color: blue;
+    margin-top: 50px;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 3px solid white;
+    font-size: 24px;
+    text-decoration: none;
+    
+   
+}
+
+.p{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
+
